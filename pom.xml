@@ -11,7 +11,7 @@
 
     <groupId>org.slinkyframework</groupId>
     <artifactId>slinky-build-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -35,7 +35,7 @@
         <url>https://github.com/klyall/slinky-build</url>
         <connection>scm:git:git@github.com:klyall/slinky-build.git</connection>
         <developerConnection>scm:git:git@github.com:klyall/slinky-build.git</developerConnection>
-        <tag>slinky-build-parent-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <issueManagement>
         <url>https://github.com/klyall/slinky-build/issues</url>
